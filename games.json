@@ -1,5 +1,14 @@
 [
   {
+    "id": "splicebound",
+    "title": "Splicebound",
+    "version": "1.0.0",
+    "updated": "2026-10-01T19:00:25.091Z",
+    "commit": "e7ce27c960b75b770885e38868ee8aa59388c5b4",
+    "gzipKB": 65,
+    "cover": true
+  },
+  {
     "id": "almus-gate",
     "title": "Almus Gate",
     "version": "1.0.0",
