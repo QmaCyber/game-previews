@@ -2,10 +2,10 @@
   {
     "id": "kettlebot",
     "title": "Kettlebot",
-    "version": "1.0.0",
-    "updated": "2026-10-01T16:53:44.246Z",
-    "commit": "28c742192ad05771ef435addc1d0f1a2f90e7b89",
-    "gzipKB": 34,
+    "version": "1.1.0",
+    "updated": "2026-10-01T18:12:48.383Z",
+    "commit": "fa8fc5a7dd20e175cc0858529855d8672913f3c7",
+    "gzipKB": 37,
     "cover": true
   },
   {
