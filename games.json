@@ -1,5 +1,48 @@
 [
   {
+    "id": "petri-panic",
+    "title": "Petri Panic",
+    "version": "0.1.0",
+    "updated": "2026-10-01T11:58:09.638Z",
+    "commit": "1150fd2c8315ec6d3a8e4dd2435a046f1d9805ed"
+  },
+  {
+    "id": "spin-brawl",
+    "title": "Spin Brawl",
+    "version": "0.1.0",
+    "updated": "2026-10-01T11:57:43.738Z",
+    "commit": "6de0ad7e16b113100b0186148056f9e85b0b01ed",
+    "gzipKB": 23,
+    "cover": true
+  },
+  {
+    "id": "yeet-the-gnome",
+    "title": "Yeet the Gnome",
+    "version": "1.0.0",
+    "updated": "2026-10-01T11:57:42.286Z",
+    "commit": "d8ee865db296b8d323c11a1bd6f4b337932880bc",
+    "gzipKB": 24,
+    "cover": true
+  },
+  {
+    "id": "brew-and-banter",
+    "title": "Brew & Banter",
+    "version": "1.0.0",
+    "updated": "2026-10-01T11:57:40.610Z",
+    "commit": "d959464ae41733fa18fde36e848876b2113e457a",
+    "gzipKB": 71,
+    "cover": true
+  },
+  {
+    "id": "germ-bait",
+    "title": "Germ Bait",
+    "version": "1.0.0",
+    "updated": "2026-10-01T11:57:39.296Z",
+    "commit": "0f8ab75ee7b276cfc14e9f240099e8715c25006c",
+    "gzipKB": 32,
+    "cover": false
+  },
+  {
     "id": "echoflies",
     "title": "Echoflies",
     "updated": "2026-10-01T11:39:42.160Z",
