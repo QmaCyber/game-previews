@@ -1,5 +1,14 @@
 [
   {
+    "id": "almus-gate",
+    "title": "Almus Gate",
+    "version": "1.0.0",
+    "updated": "2026-10-01T18:42:06.942Z",
+    "commit": "b80886c878a25a5aef48de36300b79718cc706c7",
+    "gzipKB": 30,
+    "cover": true
+  },
+  {
     "id": "kettlebot",
     "title": "Kettlebot",
     "version": "1.1.0",
