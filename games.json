@@ -1,5 +1,14 @@
 [
   {
+    "id": "dread-throne",
+    "title": "Dread Throne",
+    "version": "1.1.0",
+    "updated": "2026-10-02T17:40:23.893Z",
+    "commit": "af843a9474256e83c33bf4f7a500a983b1ae3921",
+    "gzipKB": 214,
+    "cover": true
+  },
+  {
     "id": "splicebound",
     "title": "Splicebound",
     "version": "1.0.0",
@@ -107,14 +116,6 @@
     "updated": "2026-10-01T11:39:07.036Z",
     "commit": "fb2ba05cf2f6385c8a124d7f90a8b79673b3464a",
     "gzipKB": 19,
-    "cover": true
-  },
-  {
-    "id": "dread-throne",
-    "title": "Dread Throne",
-    "updated": "2026-10-01T11:38:56.285Z",
-    "commit": "585ed82e249876d00636a2188bd31e4ee60b3250",
-    "gzipKB": 166,
     "cover": true
   }
 ]
