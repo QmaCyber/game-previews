@@ -1,5 +1,14 @@
 [
   {
+    "id": "sigil-clash",
+    "title": "Sigil Clash",
+    "version": "1.0.1",
+    "updated": "2026-10-03T21:04:44.085Z",
+    "commit": "836c0210321ba88419300c646549967c09b334e1",
+    "gzipKB": 76,
+    "cover": true
+  },
+  {
     "id": "spin-brawl",
     "title": "Spin Brawl",
     "version": "0.3.0",
@@ -42,15 +51,6 @@
     "updated": "2026-10-03T15:54:00.484Z",
     "commit": "537f9fde2a0b4c5e6c1201a4ac56bbae643fb2ce",
     "gzipKB": 71,
-    "cover": true
-  },
-  {
-    "id": "sigil-clash",
-    "title": "Sigil Clash",
-    "version": "1.0.0",
-    "updated": "2026-10-03T15:17:11.977Z",
-    "commit": "a81bb204f0d8224ed779ed462d15bc22a5285898",
-    "gzipKB": 76,
     "cover": true
   },
   {
