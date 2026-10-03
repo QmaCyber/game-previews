@@ -1,5 +1,14 @@
 [
   {
+    "id": "yeet-the-gnome",
+    "title": "Gnome Sort",
+    "version": "2.0.0",
+    "updated": "2026-10-03T08:48:10.729Z",
+    "commit": "2a034a3e214245e51d754aca30649aeb9aca93b0",
+    "gzipKB": 67,
+    "cover": true
+  },
+  {
     "id": "dread-throne",
     "title": "Dread Throne",
     "version": "1.2.0",
@@ -76,15 +85,6 @@
     "updated": "2026-10-01T11:57:43.738Z",
     "commit": "6de0ad7e16b113100b0186148056f9e85b0b01ed",
     "gzipKB": 23,
-    "cover": true
-  },
-  {
-    "id": "yeet-the-gnome",
-    "title": "Yeet the Gnome",
-    "version": "1.0.0",
-    "updated": "2026-10-01T11:57:42.286Z",
-    "commit": "d8ee865db296b8d323c11a1bd6f4b337932880bc",
-    "gzipKB": 24,
     "cover": true
   },
   {
