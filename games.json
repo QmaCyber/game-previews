@@ -1,5 +1,14 @@
 [
   {
+    "id": "petri-panic",
+    "title": "Scrap Royale",
+    "version": "1.0.0",
+    "updated": "2026-10-03T14:12:31.410Z",
+    "commit": "bd7914f4b894ae20f5a43e9da712baf6a223adeb",
+    "gzipKB": 66,
+    "cover": true
+  },
+  {
     "id": "germ-bait",
     "title": "Petri Defense",
     "version": "2.0.0",
@@ -97,13 +106,6 @@
     "commit": "af34080a74e9e25bad83fcc83c073eaf8bc50529",
     "gzipKB": 57,
     "cover": true
-  },
-  {
-    "id": "petri-panic",
-    "title": "Petri Panic",
-    "version": "0.1.0",
-    "updated": "2026-10-01T11:58:09.638Z",
-    "commit": "1150fd2c8315ec6d3a8e4dd2435a046f1d9805ed"
   },
   {
     "id": "brew-and-banter",
