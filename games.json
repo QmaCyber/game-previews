@@ -1,5 +1,14 @@
 [
   {
+    "id": "secret-house",
+    "title": "Secret House Tycoon",
+    "version": "1.0.0",
+    "updated": "2026-10-03T18:18:58.395Z",
+    "commit": "a1d3d449aebdd3debae473a34208351ee12aa050",
+    "gzipKB": 108,
+    "cover": true
+  },
+  {
     "id": "kite-royale",
     "title": "Kite Royale",
     "version": "1.0.0",
