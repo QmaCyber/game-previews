@@ -1,5 +1,14 @@
 [
   {
+    "id": "shade-clash",
+    "title": "Shade Clash",
+    "version": "1.0.0",
+    "updated": "2026-10-03T15:54:00.484Z",
+    "commit": "537f9fde2a0b4c5e6c1201a4ac56bbae643fb2ce",
+    "gzipKB": 71,
+    "cover": true
+  },
+  {
     "id": "sigil-clash",
     "title": "Sigil Clash",
     "version": "1.0.0",
