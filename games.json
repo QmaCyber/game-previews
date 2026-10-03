@@ -1,5 +1,23 @@
 [
   {
+    "id": "candle-crypt",
+    "title": "Candle Crypt",
+    "version": "1.3.0",
+    "updated": "2026-10-03T03:03:11.362Z",
+    "commit": "a42b2b0f7e68cb0fb217facc45c7c71db824f252",
+    "gzipKB": 194,
+    "cover": true
+  },
+  {
+    "id": "starsilk",
+    "title": "Starsilk",
+    "version": "1.1.0",
+    "updated": "2026-10-03T03:02:58.350Z",
+    "commit": "9ea88e150e8fdc6536f1db648feaf06fd15aa415",
+    "gzipKB": 125,
+    "cover": true
+  },
+  {
     "id": "blackout-craft",
     "title": "Blackout Craft",
     "version": "1.0.0",
@@ -93,22 +111,6 @@
     "updated": "2026-10-01T11:39:42.160Z",
     "commit": "36f80587d8e27cf9a53f9736be4cede523833082",
     "gzipKB": 21,
-    "cover": true
-  },
-  {
-    "id": "starsilk",
-    "title": "Starsilk",
-    "updated": "2026-10-01T11:39:11.327Z",
-    "commit": "f23a0cce825032708701d8f15f476be322930c84",
-    "gzipKB": 53,
-    "cover": true
-  },
-  {
-    "id": "candle-crypt",
-    "title": "Candle Crypt",
-    "updated": "2026-10-01T11:39:09.624Z",
-    "commit": "e99344cf6e93884686ebcfbfdbf4d26cda8c2e6f",
-    "gzipKB": 174,
     "cover": true
   },
   {
