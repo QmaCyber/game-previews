@@ -1,5 +1,14 @@
 [
   {
+    "id": "germ-bait",
+    "title": "Petri Defense",
+    "version": "2.0.0",
+    "updated": "2026-10-03T10:40:29.117Z",
+    "commit": "1d756088fee647dacc2fc2b79ffcb3704352dc14",
+    "gzipKB": 78,
+    "cover": true
+  },
+  {
     "id": "splicebound",
     "title": "Rivet Clash",
     "version": "2.1.0",
@@ -104,15 +113,6 @@
     "commit": "d959464ae41733fa18fde36e848876b2113e457a",
     "gzipKB": 71,
     "cover": true
-  },
-  {
-    "id": "germ-bait",
-    "title": "Germ Bait",
-    "version": "1.0.0",
-    "updated": "2026-10-01T11:57:39.296Z",
-    "commit": "0f8ab75ee7b276cfc14e9f240099e8715c25006c",
-    "gzipKB": 32,
-    "cover": false
   },
   {
     "id": "nimbus-drift",
