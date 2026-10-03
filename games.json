@@ -1,5 +1,14 @@
 [
   {
+    "id": "echoflies",
+    "title": "Firefly Rush",
+    "version": "2.0.0",
+    "updated": "2026-10-03T09:12:02.687Z",
+    "commit": "ca19daf592e779845c8de2451aa15da401131ac2",
+    "gzipKB": 79,
+    "cover": true
+  },
+  {
     "id": "yeet-the-gnome",
     "title": "Gnome Sort",
     "version": "2.0.0",
@@ -104,14 +113,6 @@
     "commit": "0f8ab75ee7b276cfc14e9f240099e8715c25006c",
     "gzipKB": 32,
     "cover": false
-  },
-  {
-    "id": "echoflies",
-    "title": "Echoflies",
-    "updated": "2026-10-01T11:39:42.160Z",
-    "commit": "36f80587d8e27cf9a53f9736be4cede523833082",
-    "gzipKB": 21,
-    "cover": true
   },
   {
     "id": "nimbus-drift",
