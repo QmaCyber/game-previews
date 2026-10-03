@@ -1,5 +1,14 @@
 [
   {
+    "id": "splicebound",
+    "title": "Rivet Clash",
+    "version": "2.1.0",
+    "updated": "2026-10-03T10:00:24.480Z",
+    "commit": "272d7a0278a8183170ac0f8520d3b9ff87c3e8eb",
+    "gzipKB": 149,
+    "cover": true
+  },
+  {
     "id": "spin-brawl",
     "title": "Spin Brawl",
     "version": "0.2.0",
@@ -51,15 +60,6 @@
     "updated": "2026-10-03T04:38:44.374Z",
     "commit": "d772508fb3aa50f581b3d70f9260bc256ae8a737",
     "gzipKB": 174,
-    "cover": true
-  },
-  {
-    "id": "splicebound",
-    "title": "Rivet Clash",
-    "version": "2.0.0",
-    "updated": "2026-10-03T04:34:26.143Z",
-    "commit": "2ccdb24e8ce28ce27c4a100edb801c423d9289f8",
-    "gzipKB": 145,
     "cover": true
   },
   {
