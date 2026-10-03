@@ -1,6 +1,14 @@
 [
   {
-<<<<<<< Updated upstream
+    "id": "spin-brawl",
+    "title": "Spin Brawl",
+    "version": "0.3.0",
+    "updated": "2026-10-03T20:17:21.236Z",
+    "commit": "9f119d88c97dfca1eab6fe9c003e477265b90672",
+    "gzipKB": 81,
+    "cover": true
+  },
+  {
     "id": "almus-gate",
     "title": "Alien Scan Logic",
     "version": "1.2.0",
@@ -43,14 +51,6 @@
     "updated": "2026-10-03T15:17:11.977Z",
     "commit": "a81bb204f0d8224ed779ed462d15bc22a5285898",
     "gzipKB": 76,
-=======
-    "id": "spin-brawl",
-    "title": "Spin Brawl",
-    "version": "0.3.0",
-    "updated": "2026-10-03T20:17:21.236Z",
-    "commit": "9f119d88c97dfca1eab6fe9c003e477265b90672",
-    "gzipKB": 81,
->>>>>>> Stashed changes
     "cover": true
   },
   {
