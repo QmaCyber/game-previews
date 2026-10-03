@@ -1,5 +1,14 @@
 [
   {
+    "id": "kite-royale",
+    "title": "Kite Royale",
+    "version": "1.0.0",
+    "updated": "2026-10-03T18:16:44.173Z",
+    "commit": "4b376727f63274a01e7ce9ab1bef6feac48169ba",
+    "gzipKB": 69,
+    "cover": true
+  },
+  {
     "id": "shade-clash",
     "title": "Shade Clash",
     "version": "1.0.0",
