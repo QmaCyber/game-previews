@@ -1,5 +1,14 @@
 [
   {
+    "id": "dread-throne",
+    "title": "Dread Throne",
+    "version": "1.2.0",
+    "updated": "2026-10-03T06:02:42.849Z",
+    "commit": "cee51f5a82c2f54b4d060ec6f97a8e2db3a341fc",
+    "gzipKB": 473,
+    "cover": true
+  },
+  {
     "id": "almus-gate",
     "title": "Alien Scan Logic",
     "version": "1.1.0",
@@ -51,15 +60,6 @@
     "updated": "2026-10-02T22:55:15.873Z",
     "commit": "af34080a74e9e25bad83fcc83c073eaf8bc50529",
     "gzipKB": 57,
-    "cover": true
-  },
-  {
-    "id": "dread-throne",
-    "title": "Dread Throne",
-    "version": "1.1.0",
-    "updated": "2026-10-02T17:40:23.893Z",
-    "commit": "af843a9474256e83c33bf4f7a500a983b1ae3921",
-    "gzipKB": 214,
     "cover": true
   },
   {
