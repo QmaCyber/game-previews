@@ -1,5 +1,14 @@
 [
   {
+    "id": "spin-brawl",
+    "title": "Spin Brawl",
+    "version": "0.2.0",
+    "updated": "2026-10-03T09:29:09.439Z",
+    "commit": "37da7c5b1e11d8c1348e35fddc294e8761fec5fa",
+    "gzipKB": 75,
+    "cover": true
+  },
+  {
     "id": "echoflies",
     "title": "Firefly Rush",
     "version": "2.0.0",
@@ -86,15 +95,6 @@
     "version": "0.1.0",
     "updated": "2026-10-01T11:58:09.638Z",
     "commit": "1150fd2c8315ec6d3a8e4dd2435a046f1d9805ed"
-  },
-  {
-    "id": "spin-brawl",
-    "title": "Spin Brawl",
-    "version": "0.1.0",
-    "updated": "2026-10-01T11:57:43.738Z",
-    "commit": "6de0ad7e16b113100b0186148056f9e85b0b01ed",
-    "gzipKB": 23,
-    "cover": true
   },
   {
     "id": "brew-and-banter",
