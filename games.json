@@ -1,5 +1,14 @@
 [
   {
+    "id": "almus-gate",
+    "title": "Alien Scan Logic",
+    "version": "1.1.0",
+    "updated": "2026-10-03T05:29:21.276Z",
+    "commit": "ce02724d4ccdbf684b614678902ff62cbc8398e3",
+    "gzipKB": 98,
+    "cover": true
+  },
+  {
     "id": "kettlebot",
     "title": "Kettlebot: Overheat Defense",
     "version": "1.2.0",
@@ -51,15 +60,6 @@
     "updated": "2026-10-02T17:40:23.893Z",
     "commit": "af843a9474256e83c33bf4f7a500a983b1ae3921",
     "gzipKB": 214,
-    "cover": true
-  },
-  {
-    "id": "almus-gate",
-    "title": "Almus Gate",
-    "version": "1.0.0",
-    "updated": "2026-10-01T18:42:06.942Z",
-    "commit": "b80886c878a25a5aef48de36300b79718cc706c7",
-    "gzipKB": 30,
     "cover": true
   },
   {
