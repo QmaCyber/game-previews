@@ -1,5 +1,14 @@
 [
   {
+    "id": "kite-royale",
+    "title": "Kite Royale",
+    "version": "1.1.0",
+    "updated": "2026-10-03T23:07:14.624Z",
+    "commit": "31c16cd43a0810adba6972eb865e1396c4967c33",
+    "gzipKB": 71,
+    "cover": true
+  },
+  {
     "id": "echoflies",
     "title": "Firefly Rush",
     "version": "2.1.0",
@@ -42,15 +51,6 @@
     "updated": "2026-10-03T18:18:58.395Z",
     "commit": "a1d3d449aebdd3debae473a34208351ee12aa050",
     "gzipKB": 108,
-    "cover": true
-  },
-  {
-    "id": "kite-royale",
-    "title": "Kite Royale",
-    "version": "1.0.0",
-    "updated": "2026-10-03T18:16:44.173Z",
-    "commit": "4b376727f63274a01e7ce9ab1bef6feac48169ba",
-    "gzipKB": 69,
     "cover": true
   },
   {
