@@ -1,5 +1,14 @@
 [
   {
+    "id": "candle-crypt",
+    "title": "Candle Crypt",
+    "version": "1.4.1",
+    "updated": "2026-10-03T23:30:46.021Z",
+    "commit": "cf3d37e375408cb36cc8c3245e373cf253b8d5fc",
+    "gzipKB": 203,
+    "cover": true
+  },
+  {
     "id": "kite-royale",
     "title": "Kite Royale",
     "version": "1.1.0",
@@ -60,15 +69,6 @@
     "updated": "2026-10-03T15:54:00.484Z",
     "commit": "537f9fde2a0b4c5e6c1201a4ac56bbae643fb2ce",
     "gzipKB": 71,
-    "cover": true
-  },
-  {
-    "id": "candle-crypt",
-    "title": "Candle Crypt",
-    "version": "1.4.0",
-    "updated": "2026-10-03T14:26:17.825Z",
-    "commit": "edc4d966decc6ec9c3d15827ac69a191ba171e06",
-    "gzipKB": 200,
     "cover": true
   },
   {
