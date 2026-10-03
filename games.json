@@ -1,5 +1,14 @@
 [
   {
+    "id": "splicebound",
+    "title": "Rivet Clash",
+    "version": "2.0.0",
+    "updated": "2026-10-03T04:34:26.143Z",
+    "commit": "2ccdb24e8ce28ce27c4a100edb801c423d9289f8",
+    "gzipKB": 145,
+    "cover": true
+  },
+  {
     "id": "candle-crypt",
     "title": "Candle Crypt",
     "version": "1.3.0",
@@ -33,15 +42,6 @@
     "updated": "2026-10-02T17:40:23.893Z",
     "commit": "af843a9474256e83c33bf4f7a500a983b1ae3921",
     "gzipKB": 214,
-    "cover": true
-  },
-  {
-    "id": "splicebound",
-    "title": "Splicebound",
-    "version": "1.0.0",
-    "updated": "2026-10-01T19:00:25.091Z",
-    "commit": "e7ce27c960b75b770885e38868ee8aa59388c5b4",
-    "gzipKB": 65,
     "cover": true
   },
   {
