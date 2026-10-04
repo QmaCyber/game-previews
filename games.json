@@ -1,5 +1,14 @@
 [
   {
+    "id": "brew-and-banter",
+    "title": "Brew & Banter",
+    "version": "2.0.0",
+    "updated": "2026-10-04T09:56:14.746Z",
+    "commit": "484d80786dc857b4106366e74b8c13605edcd59d",
+    "gzipKB": 196,
+    "cover": true
+  },
+  {
     "id": "candle-crypt",
     "title": "Candle Crypt",
     "version": "1.5.0",
@@ -123,15 +132,6 @@
     "updated": "2026-10-02T22:55:15.873Z",
     "commit": "af34080a74e9e25bad83fcc83c073eaf8bc50529",
     "gzipKB": 57,
-    "cover": true
-  },
-  {
-    "id": "brew-and-banter",
-    "title": "Brew & Banter",
-    "version": "1.0.0",
-    "updated": "2026-10-01T11:57:40.610Z",
-    "commit": "d959464ae41733fa18fde36e848876b2113e457a",
-    "gzipKB": 71,
     "cover": true
   },
   {
