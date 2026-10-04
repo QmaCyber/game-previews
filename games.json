@@ -1,6 +1,6 @@
 [
   {
-    "id": "echoflies",
+    "id": "firefly-rush",
     "title": "Firefly Rush",
     "version": "2.2.0",
     "updated": "2026-10-04T00:12:15.870Z",
@@ -45,7 +45,7 @@
     "cover": true
   },
   {
-    "id": "almus-gate",
+    "id": "alien-scan-logic",
     "title": "Alien Scan Logic",
     "version": "1.2.0",
     "updated": "2026-10-03T19:17:40.140Z",
@@ -63,16 +63,7 @@
     "cover": true
   },
   {
-    "id": "shade-clash",
-    "title": "Shade Clash",
-    "version": "1.0.0",
-    "updated": "2026-10-03T15:54:00.484Z",
-    "commit": "537f9fde2a0b4c5e6c1201a4ac56bbae643fb2ce",
-    "gzipKB": 71,
-    "cover": true
-  },
-  {
-    "id": "petri-panic",
+    "id": "scrap-royale",
     "title": "Scrap Royale",
     "version": "1.0.0",
     "updated": "2026-10-03T14:12:31.410Z",
@@ -81,16 +72,7 @@
     "cover": true
   },
   {
-    "id": "germ-bait",
-    "title": "Petri Defense",
-    "version": "2.0.0",
-    "updated": "2026-10-03T10:40:29.117Z",
-    "commit": "1d756088fee647dacc2fc2b79ffcb3704352dc14",
-    "gzipKB": 78,
-    "cover": true
-  },
-  {
-    "id": "splicebound",
+    "id": "rivet-clash",
     "title": "Rivet Clash",
     "version": "2.1.0",
     "updated": "2026-10-03T10:00:24.480Z",
@@ -99,7 +81,7 @@
     "cover": true
   },
   {
-    "id": "yeet-the-gnome",
+    "id": "gnome-sort",
     "title": "Gnome Sort",
     "version": "2.0.0",
     "updated": "2026-10-03T08:48:10.729Z",
