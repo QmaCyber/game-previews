@@ -2,10 +2,10 @@
   {
     "id": "potion-logic",
     "title": "Potion Logic",
-    "version": "2.1.0",
-    "updated": "2026-10-04T11:12:12.853Z",
-    "commit": "3b66d2f51fa31857e67de7ef279b6c3525a31bed",
-    "gzipKB": 202,
+    "version": "2.2.0",
+    "updated": "2026-10-04T13:01:37.721Z",
+    "commit": "5821e4baf9fafd7169ae4a388633ee9e0de0cf03",
+    "gzipKB": 205,
     "cover": true
   },
   {
