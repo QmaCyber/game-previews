@@ -2,10 +2,10 @@
   {
     "id": "candle-crypt",
     "title": "Candle Crypt",
-    "version": "1.4.2",
-    "updated": "2026-10-04T07:55:43.644Z",
-    "commit": "236909ee26ba3a4d11099b073bac61060c3cd87c",
-    "gzipKB": 201,
+    "version": "1.5.0",
+    "updated": "2026-10-04T08:49:21.688Z",
+    "commit": "019a40baffedecd2a4dde93c45d4e9de137da308",
+    "gzipKB": 205,
     "cover": true
   },
   {
