@@ -1,20 +1,20 @@
 [
   {
+    "id": "candle-crypt",
+    "title": "Candle Crypt",
+    "version": "1.4.2",
+    "updated": "2026-10-04T07:55:43.644Z",
+    "commit": "236909ee26ba3a4d11099b073bac61060c3cd87c",
+    "gzipKB": 201,
+    "cover": true
+  },
+  {
     "id": "firefly-rush",
     "title": "Firefly Rush",
     "version": "2.2.0",
     "updated": "2026-10-04T00:12:15.870Z",
     "commit": "1d07b94c9068e2192f03ebc6f809d8ddb2101796",
     "gzipKB": 90,
-    "cover": true
-  },
-  {
-    "id": "candle-crypt",
-    "title": "Candle Crypt",
-    "version": "1.4.1",
-    "updated": "2026-10-03T23:30:46.021Z",
-    "commit": "cf3d37e375408cb36cc8c3245e373cf253b8d5fc",
-    "gzipKB": 203,
     "cover": true
   },
   {
