@@ -1,5 +1,14 @@
 [
   {
+    "id": "echoflies",
+    "title": "Firefly Rush",
+    "version": "2.2.0",
+    "updated": "2026-10-04T00:12:15.870Z",
+    "commit": "1d07b94c9068e2192f03ebc6f809d8ddb2101796",
+    "gzipKB": 90,
+    "cover": true
+  },
+  {
     "id": "candle-crypt",
     "title": "Candle Crypt",
     "version": "1.4.1",
@@ -15,15 +24,6 @@
     "updated": "2026-10-03T23:07:14.624Z",
     "commit": "31c16cd43a0810adba6972eb865e1396c4967c33",
     "gzipKB": 71,
-    "cover": true
-  },
-  {
-    "id": "echoflies",
-    "title": "Firefly Rush",
-    "version": "2.1.0",
-    "updated": "2026-10-03T21:37:35.664Z",
-    "commit": "0f308a2e4c5bfdb032fc02a1a41819d55b2d4ac0",
-    "gzipKB": 82,
     "cover": true
   },
   {
