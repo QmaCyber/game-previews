@@ -1,5 +1,14 @@
 [
   {
+    "id": "swarm-smash",
+    "title": "Swarm Smash",
+    "version": "1.1.0",
+    "updated": "2026-10-10T18:44:10.432Z",
+    "commit": "6dda495982c7d172d1cf06be8d0611732a3a987a",
+    "gzipKB": 195,
+    "cover": true
+  },
+  {
     "id": "starsilk",
     "title": "Starsilk",
     "version": "2.0.1",
