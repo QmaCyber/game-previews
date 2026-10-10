@@ -1,5 +1,23 @@
 [
   {
+    "id": "starsilk",
+    "title": "Starsilk",
+    "version": "2.0.0",
+    "updated": "2026-10-10T09:05:38.801Z",
+    "commit": "09e86c7b2e3d78bb8c06ad08ad5be040c9708053",
+    "gzipKB": 138,
+    "cover": true
+  },
+  {
+    "id": "hang-the-moon",
+    "title": "Hang the Moon",
+    "version": "2.0.0",
+    "updated": "2026-10-10T09:05:34.918Z",
+    "commit": "1310cf3b9cc8d55ca6f4eb54c010a0c5f4e3e03c",
+    "gzipKB": 60,
+    "cover": true
+  },
+  {
     "id": "potion-logic",
     "title": "Potion Logic",
     "version": "2.2.0",
@@ -117,15 +135,6 @@
     "cover": true
   },
   {
-    "id": "starsilk",
-    "title": "Starsilk",
-    "version": "1.1.0",
-    "updated": "2026-10-03T03:02:58.350Z",
-    "commit": "9ea88e150e8fdc6536f1db648feaf06fd15aa415",
-    "gzipKB": 125,
-    "cover": true
-  },
-  {
     "id": "blackout-craft",
     "title": "Blackout Craft",
     "version": "1.0.0",
@@ -140,14 +149,6 @@
     "updated": "2026-10-01T11:39:07.795Z",
     "commit": "678c84cf8f2be6340c7cb268be2091cbfdc0f6d8",
     "gzipKB": 21,
-    "cover": true
-  },
-  {
-    "id": "hang-the-moon",
-    "title": "Hang the Moon",
-    "updated": "2026-10-01T11:39:07.036Z",
-    "commit": "fb2ba05cf2f6385c8a124d7f90a8b79673b3464a",
-    "gzipKB": 19,
     "cover": true
   }
 ]
