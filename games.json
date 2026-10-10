@@ -1,5 +1,14 @@
 [
   {
+    "id": "spin-brawl",
+    "title": "Spin Brawl",
+    "version": "1.0.0",
+    "updated": "2026-10-10T10:10:27.023Z",
+    "commit": "cca05cbf8dfc8d3b177aae2472ec5766da0c6054",
+    "gzipKB": 104,
+    "cover": true
+  },
+  {
     "id": "starsilk",
     "title": "Starsilk",
     "version": "2.0.0",
@@ -60,15 +69,6 @@
     "updated": "2026-10-03T21:04:44.085Z",
     "commit": "836c0210321ba88419300c646549967c09b334e1",
     "gzipKB": 76,
-    "cover": true
-  },
-  {
-    "id": "spin-brawl",
-    "title": "Spin Brawl",
-    "version": "0.3.0",
-    "updated": "2026-10-03T20:17:21.236Z",
-    "commit": "9f119d88c97dfca1eab6fe9c003e477265b90672",
-    "gzipKB": 81,
     "cover": true
   },
   {
