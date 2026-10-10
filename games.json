@@ -1,5 +1,14 @@
 [
   {
+    "id": "starsilk",
+    "title": "Starsilk",
+    "version": "2.0.1",
+    "updated": "2026-10-10T18:04:56.503Z",
+    "commit": "b2be356fd9610687aa8c39afd6204d61fb1f1992",
+    "gzipKB": 143,
+    "cover": true
+  },
+  {
     "id": "candle-crypt",
     "title": "Candle Crypt",
     "version": "1.6.0",
@@ -24,15 +33,6 @@
     "updated": "2026-10-10T10:10:27.023Z",
     "commit": "cca05cbf8dfc8d3b177aae2472ec5766da0c6054",
     "gzipKB": 104,
-    "cover": true
-  },
-  {
-    "id": "starsilk",
-    "title": "Starsilk",
-    "version": "2.0.0",
-    "updated": "2026-10-10T09:05:38.801Z",
-    "commit": "09e86c7b2e3d78bb8c06ad08ad5be040c9708053",
-    "gzipKB": 138,
     "cover": true
   },
   {
