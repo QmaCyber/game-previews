@@ -1,5 +1,14 @@
 [
   {
+    "id": "candle-crypt",
+    "title": "Candle Crypt",
+    "version": "1.6.0",
+    "updated": "2026-10-10T14:34:59.918Z",
+    "commit": "430207f8ad3dd0d70c1807982dec671547ae5bfc",
+    "gzipKB": 249,
+    "cover": true
+  },
+  {
     "id": "hang-the-moon",
     "title": "Hang the Moon",
     "version": "2.0.1",
@@ -32,15 +41,6 @@
     "version": "2.2.0",
     "updated": "2026-10-04T13:01:37.721Z",
     "commit": "5821e4baf9fafd7169ae4a388633ee9e0de0cf03",
-    "gzipKB": 205,
-    "cover": true
-  },
-  {
-    "id": "candle-crypt",
-    "title": "Candle Crypt",
-    "version": "1.5.0",
-    "updated": "2026-10-04T08:49:21.688Z",
-    "commit": "019a40baffedecd2a4dde93c45d4e9de137da308",
     "gzipKB": 205,
     "cover": true
   },
