@@ -1,5 +1,14 @@
 [
   {
+    "id": "hang-the-moon",
+    "title": "Hang the Moon",
+    "version": "2.0.1",
+    "updated": "2026-10-10T13:02:44.060Z",
+    "commit": "0acdfec511b38103aa52536d5bf024a4ac73fafb",
+    "gzipKB": 61,
+    "cover": true
+  },
+  {
     "id": "spin-brawl",
     "title": "Spin Brawl",
     "version": "1.0.0",
@@ -15,15 +24,6 @@
     "updated": "2026-10-10T09:05:38.801Z",
     "commit": "09e86c7b2e3d78bb8c06ad08ad5be040c9708053",
     "gzipKB": 138,
-    "cover": true
-  },
-  {
-    "id": "hang-the-moon",
-    "title": "Hang the Moon",
-    "version": "2.0.0",
-    "updated": "2026-10-10T09:05:34.918Z",
-    "commit": "1310cf3b9cc8d55ca6f4eb54c010a0c5f4e3e03c",
-    "gzipKB": 60,
     "cover": true
   },
   {
