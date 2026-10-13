@@ -1,11 +1,29 @@
 [
   {
+    "id": "garage-evolution",
+    "title": "Idle Garage Evolution",
+    "version": "1.0.0",
+    "updated": "2026-10-13T17:20:19.471Z",
+    "commit": "ff384f41ecc8f1ac80a022137a0a5b260430b5a9",
+    "gzipKB": 143,
+    "cover": true
+  },
+  {
+    "id": "candle-crypt",
+    "title": "Candle Crypt",
+    "version": "1.7.2",
+    "updated": "2026-10-11T17:00:24.737Z",
+    "commit": "b5914f27df1657a2c63863c4b8d1b81e77e19041",
+    "gzipKB": 283,
+    "cover": true
+  },
+  {
     "id": "swarm-smash",
     "title": "Swarm Smash",
-    "version": "1.1.0",
-    "updated": "2026-10-10T18:44:10.432Z",
-    "commit": "6dda495982c7d172d1cf06be8d0611732a3a987a",
-    "gzipKB": 195,
+    "version": "1.2.0",
+    "updated": "2026-10-11T16:09:27.594Z",
+    "commit": "7a236d99fea268d3be6edbf80fb0ee2ed810211e",
+    "gzipKB": 272,
     "cover": true
   },
   {
@@ -15,15 +33,6 @@
     "updated": "2026-10-10T18:04:56.503Z",
     "commit": "b2be356fd9610687aa8c39afd6204d61fb1f1992",
     "gzipKB": 143,
-    "cover": true
-  },
-  {
-    "id": "candle-crypt",
-    "title": "Candle Crypt",
-    "version": "1.6.0",
-    "updated": "2026-10-10T14:34:59.918Z",
-    "commit": "430207f8ad3dd0d70c1807982dec671547ae5bfc",
-    "gzipKB": 249,
     "cover": true
   },
   {
