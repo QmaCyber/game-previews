@@ -1,5 +1,14 @@
 [
   {
+    "id": "dominorum",
+    "title": "Dominorum",
+    "version": "1.0.0",
+    "updated": "2026-10-16T19:17:33.185Z",
+    "commit": "6d2c447068cdbacfd85914bf497f95e634e13231",
+    "gzipKB": 105,
+    "cover": true
+  },
+  {
     "id": "garage-evolution",
     "title": "Idle Garage Evolution",
     "version": "1.2.0",
