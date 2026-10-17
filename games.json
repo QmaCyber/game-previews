@@ -1,20 +1,20 @@
 [
   {
+    "id": "garage-evolution",
+    "title": "Idle Garage Evolution",
+    "version": "1.3.0",
+    "updated": "2026-10-17T03:57:06.078Z",
+    "commit": "d8515600aeeb3c9343bb8d1f39d2ccbcb34a31b6",
+    "gzipKB": 547,
+    "cover": true
+  },
+  {
     "id": "dominorum",
     "title": "Dominorum",
     "version": "1.0.0",
     "updated": "2026-10-16T19:17:33.185Z",
     "commit": "6d2c447068cdbacfd85914bf497f95e634e13231",
     "gzipKB": 105,
-    "cover": true
-  },
-  {
-    "id": "garage-evolution",
-    "title": "Idle Garage Evolution",
-    "version": "1.2.0",
-    "updated": "2026-10-14T06:51:18.251Z",
-    "commit": "32b38e8a2fe6e9f2736176363d5129f04c1604ac",
-    "gzipKB": 147,
     "cover": true
   },
   {
