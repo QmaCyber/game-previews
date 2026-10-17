@@ -1,5 +1,14 @@
 [
   {
+    "id": "sanction-runner",
+    "title": "Sanction Runner",
+    "version": "1.0.0",
+    "updated": "2026-10-17T18:19:59.752Z",
+    "commit": "9ceccc5f02856db45d70461e211194af88da13a6",
+    "gzipKB": 107,
+    "cover": true
+  },
+  {
     "id": "garage-evolution",
     "title": "Idle Garage Evolution",
     "version": "1.3.5",
