@@ -1,5 +1,14 @@
 [
   {
+    "id": "frankengun",
+    "title": "Frankengun",
+    "version": "1.0.0",
+    "updated": "2026-10-18T19:35:44.712Z",
+    "commit": "b90e71c42c1d8dc47cbc8c39cf5d82986fb81dfa",
+    "gzipKB": 634,
+    "cover": false
+  },
+  {
     "id": "craft-pickaxe-idle",
     "title": "Craft Pickaxe Idle",
     "version": "1.0.0",
