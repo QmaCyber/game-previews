@@ -1,5 +1,14 @@
 [
   {
+    "id": "candle-crypt",
+    "title": "Candle Crypt",
+    "version": "1.8.0",
+    "updated": "2026-10-19T12:27:48.157Z",
+    "commit": "ed874a5d37bfe0df56a55787bdbf7872fec20ba5",
+    "gzipKB": 325,
+    "cover": true
+  },
+  {
     "id": "frankengun",
     "title": "Frankengun",
     "version": "1.0.0",
@@ -51,15 +60,6 @@
     "updated": "2026-10-16T19:17:33.185Z",
     "commit": "6d2c447068cdbacfd85914bf497f95e634e13231",
     "gzipKB": 105,
-    "cover": true
-  },
-  {
-    "id": "candle-crypt",
-    "title": "Candle Crypt",
-    "version": "1.7.2",
-    "updated": "2026-10-11T17:00:24.737Z",
-    "commit": "b5914f27df1657a2c63863c4b8d1b81e77e19041",
-    "gzipKB": 283,
     "cover": true
   },
   {
