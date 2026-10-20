@@ -2,10 +2,10 @@
   {
     "id": "garage-evolution",
     "title": "Idle Garage Evolution",
-    "version": "1.5.0",
-    "updated": "2026-10-20T09:26:19.478Z",
-    "commit": "508a9efbbeac8a852c6530f9850c5bd8010089bb",
-    "gzipKB": 2507,
+    "version": "1.5.1",
+    "updated": "2026-10-20T14:07:10.337Z",
+    "commit": "66ddc3720e5781412e5dee2710af10642958875d",
+    "gzipKB": 2519,
     "cover": true
   },
   {
