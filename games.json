@@ -1,20 +1,20 @@
 [
   {
+    "id": "candle-crypt",
+    "title": "Candle Crypt",
+    "version": "1.8.5",
+    "updated": "2026-10-23T18:13:17.873Z",
+    "commit": "3c3fca8a8825944d99d24804012d7a7012f2861d",
+    "gzipKB": 329,
+    "cover": true
+  },
+  {
     "id": "garage-evolution",
     "title": "Idle Garage Evolution",
     "version": "1.5.1",
     "updated": "2026-10-20T14:07:10.337Z",
     "commit": "66ddc3720e5781412e5dee2710af10642958875d",
     "gzipKB": 2519,
-    "cover": true
-  },
-  {
-    "id": "candle-crypt",
-    "title": "Candle Crypt",
-    "version": "1.8.3",
-    "updated": "2026-10-19T18:28:18.905Z",
-    "commit": "d84b1643fa8047165d0b1cd27c4ecbc15712d892",
-    "gzipKB": 328,
     "cover": true
   },
   {
