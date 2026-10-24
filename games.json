@@ -1,20 +1,20 @@
 [
   {
+    "id": "kinetic-noir",
+    "title": "Kinetic Noir",
+    "version": "1.0.0",
+    "updated": "2026-10-24T19:08:56.319Z",
+    "commit": "3a6c455e55a5062a5239899c9a146ff0ad43ba5f",
+    "gzipKB": 394,
+    "cover": true
+  },
+  {
     "id": "candle-crypt",
     "title": "Candle Crypt",
     "version": "1.8.8",
     "updated": "2026-10-24T16:37:58.605Z",
     "commit": "6c68273b21791e6d54f3f904f56391024dd44d7b",
     "gzipKB": 373,
-    "cover": true
-  },
-  {
-    "id": "kinetic-noir",
-    "title": "Kinetic Noir",
-    "version": "1.0.0",
-    "updated": "2026-10-24T16:33:53.689Z",
-    "commit": "54b6dcba30eee9829a32ea13335cd0ddd54eb4eb",
-    "gzipKB": 143,
     "cover": true
   },
   {
