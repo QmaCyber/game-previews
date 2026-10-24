@@ -1,5 +1,14 @@
 [
   {
+    "id": "kinetic-noir",
+    "title": "Kinetic Noir",
+    "version": "1.0.0",
+    "updated": "2026-10-24T01:52:19.820Z",
+    "commit": "1bd68c662e7bd3d968b024430a44230cbed7c8f4",
+    "gzipKB": 422,
+    "cover": true
+  },
+  {
     "id": "candle-crypt",
     "title": "Candle Crypt",
     "version": "1.8.5",
