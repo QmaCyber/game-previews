@@ -1,5 +1,14 @@
 [
   {
+    "id": "frankengun",
+    "title": "Frankengun",
+    "version": "1.1.0",
+    "updated": "2026-10-25T14:42:36.941Z",
+    "commit": "6babf18971062c81750a4f3d6539e8cdde2d16ed",
+    "gzipKB": 653,
+    "cover": true
+  },
+  {
     "id": "kinetic-noir",
     "title": "Kinetic Noir",
     "version": "1.0.0",
@@ -34,15 +43,6 @@
     "commit": "66ddc3720e5781412e5dee2710af10642958875d",
     "gzipKB": 2519,
     "cover": true
-  },
-  {
-    "id": "frankengun",
-    "title": "Frankengun",
-    "version": "1.0.0",
-    "updated": "2026-10-18T19:35:44.712Z",
-    "commit": "b90e71c42c1d8dc47cbc8c39cf5d82986fb81dfa",
-    "gzipKB": 634,
-    "cover": false
   },
   {
     "id": "craft-pickaxe-idle",
