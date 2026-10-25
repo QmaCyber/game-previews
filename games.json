@@ -1,20 +1,20 @@
 [
   {
+    "id": "kinetic-noir",
+    "title": "Kinetic Noir",
+    "version": "1.0.0",
+    "updated": "2026-10-25T14:26:04.830Z",
+    "commit": "5966bf6ac571abfbc9a522191ff0ff4df1cf24d3",
+    "gzipKB": 277,
+    "cover": true
+  },
+  {
     "id": "potion-logic",
     "title": "Potion Logic",
     "version": "2.3.0",
     "updated": "2026-10-25T13:17:46.877Z",
     "commit": "7d8b7d2e04dddcb3c9ded5b8b55955ab08d6bb40",
     "gzipKB": 236,
-    "cover": true
-  },
-  {
-    "id": "kinetic-noir",
-    "title": "Kinetic Noir",
-    "version": "1.0.0",
-    "updated": "2026-10-25T13:01:56.620Z",
-    "commit": "40ce91f8dae139af504a7d5bbb98d542599797bc",
-    "gzipKB": 273,
     "cover": true
   },
   {
