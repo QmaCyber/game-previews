@@ -1,20 +1,20 @@
 [
   {
+    "id": "kinetic-noir",
+    "title": "Kinetic Noir",
+    "version": "1.0.0",
+    "updated": "2026-10-25T23:50:21.367Z",
+    "commit": "de90546461b40bf2b0a82eae914172009cf81e98",
+    "gzipKB": 303,
+    "cover": true
+  },
+  {
     "id": "frankengun",
     "title": "Frankengun",
     "version": "1.1.0",
     "updated": "2026-10-25T14:42:36.941Z",
     "commit": "6babf18971062c81750a4f3d6539e8cdde2d16ed",
     "gzipKB": 653,
-    "cover": true
-  },
-  {
-    "id": "kinetic-noir",
-    "title": "Kinetic Noir",
-    "version": "1.0.0",
-    "updated": "2026-10-25T21:45:32.754Z",
-    "commit": "0779428895d151971da91baa4d39e1a4479bb66c",
-    "gzipKB": 300,
     "cover": true
   },
   {
